@@ -1,23 +1,29 @@
-<!--
-**nandadevrmenon/nandadevrmenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
 <h2> Hi, I'm Nandadev Menon!<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJxNXZocHZwM2lyYW5kczVpaHBqcmFtNmozcHZiNGo3MDV3dnQ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/INWvHtY18ElyvtEdS2/giphy.webp" width="50"></h2>
-People call me dev(/deɪv/ or dave) and that is a very fitting name indeed for the work I do.
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>People call me dev (/deɪv/ which is pronounced the same as Dave)</p>
+
+<p>
+<li>4th Year Computer Science student at <a href="http://www.unb.br">Griffith College Dublin</a></li>
+<li>Work Experience at <a href="https://www.microsoft.com/en-ie">Microsoft</a> on <a href = "https://www.microsoft.com/en-us/dynamics-365" >Dynamics 365</a>.</li>
+</p>
+
+## Skills
+- **Languages:** Java, JavaScript, React, Python, HTML, CSS, TypeScript
+- **Technologies:** Node.js, Express, Firebase
+  
+- **Current Projects:**
+  - Working on small pet projects to stay current with my coding skills.
+  - Learning Machine Learning and experimenting with AI in applications.
+
+## Contact
+- **Instagram:** [\_nandadev\_](https://www.instagram.com/_nandadev_)
+
+## Hobbies
+Outside of computer science, I enjoy:
+- Photography 📸
+- Videography 🎥
+- DJing 🎧
+- Playing Badminton 🏸
+
+---
+
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
