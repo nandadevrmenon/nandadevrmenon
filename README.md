@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nandadev! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJxNXZocHZwM2lyYW5kczVpaHBqcmFtNmozcHZiNGo3MDV3dnQ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/INWvHtY18ElyvtEdS2/giphy.webp" width="50"></h2>
 
-<p>People call me dev (/deɪv/ which is pronounced the same as Dave)</p>
+<p>People call me dev (/deɪv/ which is pronounced in a similar way to Dave)</p>
 
 <ul>
 <li>4th Year Computer Science student at <a href="http://www.unb.br">Griffith College Dublin</a></li>
